@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 35
-    namespace 'kw.com.trolley.ecom'
+    namespace 'name.avioli.unilinks'
 
     defaultConfig {
         minSdkVersion 16
